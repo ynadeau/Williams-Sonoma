@@ -1,4 +1,4 @@
-#Automation project
+#Williams-Sonoma
 
 *Simple Project*
 
@@ -13,6 +13,6 @@
 * SQL
 * CVS/ Test
 
-Automation project
+basic-project
 
 [Yves Nadeau](http://sqasolution.com)
